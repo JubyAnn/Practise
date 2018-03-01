@@ -1,5 +1,5 @@
 //time complexity is O(n)
-////
+///////////
 public class BinaryTree {
 
 	static Node root;
